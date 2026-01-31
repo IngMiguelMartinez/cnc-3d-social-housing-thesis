@@ -1,0 +1,39 @@
+# --- Compilación y Lenguajes ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.exe
+*.bin
+*.hex
+*.out
+
+# --- Entornos Virtuales (IA/Data Science) ---
+venv/
+.venv/
+env/
+.env
+build/
+dist/
+
+# --- Diseño Electrónico e Industrial ---
+# Archivos temporales de CAD (SolidWorks, Inventor, AutoCAD)
+*.tmp
+*.bak
+*.log
+*.err
+*.~*
+# Proteus / Altium / KiCad (archivos de respaldo)
+*.bck
+*.kicad_pcb-bak
+
+# --- Impresión 3D y Slicing ---
+# No querrás subir cada G-code de prueba, solo los finales si es necesario
+*.gcode
+*.slc
+*.curatemp
+
+# --- Documentación y Sistema ---
+.DS_Store
+Thumbs.db
+~$*.docx
+~$*.xlsx
