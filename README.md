@@ -19,7 +19,7 @@ El sistema fue modelado integralmente en CAD antes de su fabricación para asegu
 ### 2. Prueba de Funcionamiento (Demo)
 Validación de extrusión de pasta (mezcla prototipo) y sincronización de ejes.
 
-![Demo de Extrusión](media/demo_extrusion.gif)
+![Demo de Extrusión](media/demo_cnc.gif)
 > *Figura 3. Prueba de concepto: Manufactura Aditiva por Extrusión de Pasta (LDM).*
 
 ---
