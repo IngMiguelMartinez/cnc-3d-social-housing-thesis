@@ -13,7 +13,7 @@ El sistema fue modelado integralmente en CAD antes de su fabricación para asegu
 
 | **Diseño Mecánico (CAD)** | **Prototipo Físico (Implementación)** |
 |:---:|:---:|
-| ![Render CAD](media/render_iso.jpg) | ![Prototipo Físico](media/Vista_superior_real.jpeg) |
+| <img src="media/media/render_iso.jpg" width="400" />| <img src="media/Vista_superior_real.jpeg" width="400" /> |
 | *Figura 1. Diseño estructural y sistema de cinemática.* | *Figura 2. Ensamble final con electrónica integrada.* |
 
 ### 2. Prueba de Funcionamiento (Demo)
