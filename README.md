@@ -13,7 +13,7 @@ El sistema fue modelado integralmente en CAD antes de su fabricación para asegu
 
 | **Diseño Mecánico (CAD)** | **Prototipo Físico (Implementación)** |
 |:---:|:---:|
-| ![Render CAD](media/render_iso.jpg) | ![Prototipo Físico](media/Vista_superior_real.jpg) |
+| ![Render CAD](media/render_iso.jpg) | ![Prototipo Físico](media/Vista_superior_real.jpeg) |
 | *Figura 1. Diseño estructural y sistema de cinemática.* | *Figura 2. Ensamble final con electrónica integrada.* |
 
 ### 2. Prueba de Funcionamiento (Demo)
@@ -32,7 +32,7 @@ La calidad técnica e impacto social de este proyecto han sido validados en esce
 * **🥇 Calificación SOBRESALIENTE (90/100):** Otorgada en el *XXVI Encuentro Nacional de Semilleros de Investigación RedCOLSI 2023*.
 * **🗣️ Ponencia Nacional:** Proyecto seleccionado para representación en el encuentro nacional en la **Universidad de Cartagena**.
 
-![Ponencia en Cartagena](media/ponencia_cartagena.jpg)
+![Ponencia en Cartagena](media/ponencia_cartagena.jpeg)
 > *Figura 4. Socialización del prototipo ante pares académicos en el encuentro nacional RedCOLSI (Cartagena).*
 
 ---
