@@ -78,7 +78,6 @@ Esquema de la arquitectura electrónica híbrida utilizada para manejar las dife
 * `/hardware`:
     * `/cad`: Archivos STEP y nativos de diseño.
     * `/planos`: Planos técnicos acotados en PDF para fabricación.
-    * `/schematics`: Diagramas electrónicos.
 * `/docs`: Documentación académica, certificados (RedCOLSI) y manuales.
 * `/media`: Banco de imágenes y videos del proyecto.
 
